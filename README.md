@@ -1,4 +1,4 @@
 # HAHAHU LEARN GIT
 
 0. hsy feat: ....
-1. 第一次提交
+1. 锟斤拷一锟斤拷锟结交
