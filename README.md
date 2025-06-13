@@ -1,4 +1,4 @@
 # HAHAHU LEARN GIT
 
 0. hsy feat: ....
-1. ��һ���ύ
+1. 第一次提交
